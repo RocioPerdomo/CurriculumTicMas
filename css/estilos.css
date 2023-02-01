@@ -1,0 +1,41 @@
+
+#texto{
+    font-family: verdana;
+    color: #123452;
+    font-size: 30px;
+}
+
+h2{
+    font-family: fantasy;
+}
+
+#titulo{
+
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+#c1{
+    float:left ;
+    width: 25%;
+    height: 550px;
+}
+#c2{
+    float:left ;
+    width: 50%;
+}
+#c3{
+    float:left;
+    width: 25%;
+    height: 550px;
+}
+
+
+#insta{
+    float:left;
+}
+
+#face{
+ float:right;   
+}
+
